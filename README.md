@@ -1,3 +1,4 @@
+![logo](https://github.com/zohaib240/zohaib240/blob/main/WhatsApp%20Image%202024-10-14%20at%2012.13.41_89069e0d.jpg)
 <h1 align="center">Hi 👋, I'm Zohaib Asghar</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
