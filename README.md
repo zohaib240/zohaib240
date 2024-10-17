@@ -8,7 +8,7 @@ I specialize in React for building dynamic single-page applications (SPAs) and h
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zohaib240&label=Profile%20views&color=0e75b6&style=flat" alt="zohaib240" /> </p>
 
-- 🔭 I’m currently working on **Olx Clone**
+- 🔭 I’m currently working on **GRANA.com**
 
 - 🌱 I’m currently learning **Next Js / React Js**
 
