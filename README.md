@@ -1,6 +1,6 @@
 ![logo](https://github.com/zohaib240/zohaib240/blob/main/bg%20banner%2024.jpg)
 <h3 align="center" style="margin-top: 4px;">A PASSIONATED SOFTWARE DEVELOPER!</h3>
-<p>I am a Mern-Stack Developer with a passion for creating interactive and user-friendly web applications. My expertise includes HTML, CSS, JavaScript, React, and modern front-end frameworks like Tailwind CSS and Bootstrap. I enjoy turning complex problems into simple, intuitive interfaces, focusing on performance, accessibility, and responsive design.
+<p>I am a passionate **MERN Stack Developer** specializing in building scalable, interactive, and user-friendly web applications. My expertise lies in developing responsive front-end interfaces using **React** and **Next.js**, crafting robust back-end solutions with **Node.js** and **Express.js**, and managing databases efficiently with **MongoDB**. With a strong focus on performance, accessibility, and modern design principles, I aim to deliver seamless and impactful user experiences..
 
 I specialize in React for building dynamic single-page applications (SPAs) and have experience working with Next.js for server-side rendering and building scalable web apps. I enjoy optimizing performance and ensuring smooth user experiences across different platforms.</p>
 
