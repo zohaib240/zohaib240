@@ -1,4 +1,4 @@
-![logo](https://github.com/zohaib240/zohaib240/blob/main/bacgroud%20img.jpg)
+![logo](https://github.com/zohaib240/zohaib240/blob/main/bg%20banner%2024.jpg)
 <h3 align="center" style="margin-top: 4px;">A PASSIONATED FRONTEND ENGINEER!</h3>
 <p>I am a front-end engineer with a passion for creating interactive and user-friendly web applications. My expertise includes HTML, CSS, JavaScript, React, and modern front-end frameworks like Tailwind CSS and Bootstrap. I enjoy turning complex problems into simple, intuitive interfaces, focusing on performance, accessibility, and responsive design.
 
